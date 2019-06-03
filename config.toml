@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-ca"
 title = "Wedding"
-theme = "kross"
+theme = "kross-theme"
 summaryLength = "10"
 
 # Plugins
